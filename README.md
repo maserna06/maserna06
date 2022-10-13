@@ -1,4 +1,4 @@
-### Hola soy Manuel 👋
+# Hola soy Manuel 👋
 
 <!--
 **maserna06/maserna06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=maserna06&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maserna06&layout=compact" />
 
-<br />
-<br />
-<br />
-<br />
+#
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -43,10 +40,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Semantic UI" src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the badge&logo=SemanticUIReact&logoColor=white)" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<br />
-<br />
-<br />
-<br />
+#
 
 # Mis Videos
 
