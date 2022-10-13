@@ -45,4 +45,9 @@ Here are some ideas to get you started:
 # Mis Videos
 
 <!-- YT_VIDEOS_LIST:START -->
+- [9.  Slim Framework Formularios y crear usuarios II](https://www.youtube.com/watch?v=BH9ykv0omHw)
+- [10.  Slim Framework Editar Usuarios](https://www.youtube.com/watch?v=wGmnUg3lRW0)
+- [8.  Slim Framework Formularios y crear usuarios I](https://www.youtube.com/watch?v=GeT2kcWdEPg)
+- [11.  Slim Framework Eliminar Usuarios](https://www.youtube.com/watch?v=62Boqga7N6Y)
+- [7.  Slim Framework Conexión con  MySQL](https://www.youtube.com/watch?v=gWlFTqbdm7w)
 <!-- YT_VIDEOS_LIST:END -->
