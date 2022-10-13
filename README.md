@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 <img align="left" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 <img align="left" alt="Semantic UI" src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the badge&logo=SemanticUIReact&logoColor=white)" />
-<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 # Mis Videos
 
